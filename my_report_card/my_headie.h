@@ -22,7 +22,7 @@ public:
 	void attendance();
 	void data_receival();
 	void calculations();
-	void print_out();
+	void print_out(); //this prints in .txt file
 
 
 };

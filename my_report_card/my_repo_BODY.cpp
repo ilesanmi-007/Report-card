@@ -9,6 +9,8 @@ int main()
 	cout<<endl;
 	repo student;
 	student.attendance();
+	system("cls");
+	student.data_receival();
 	//cout<< "-" * 30<<endl;
 	//setw(30, "-");
 	cout<<endl;
